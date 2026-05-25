@@ -1,313 +1,367 @@
 {
     "person-female_get-into_ambulance": [
-        "Người phụ nữ cần xe cứu thương."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef c\u1ea7n xe c\u1ee9u th\u01b0\u01a1ng."
     ],
     "person-female_pet_animal-bunny": [
-        "Người phụ nữ vuốt ve con thỏ."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef vu\u1ed1t ve con th\u1ecf."
     ],
     "person-female_pet_animal-cat": [
-        "Người phụ nữ vuốt ve con mèo."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef vu\u1ed1t ve con m\u00e8o."
     ],
     "person-female_eat_avocado": [
-        "Người phụ nữ ăn quả bơ."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0103n qu\u1ea3 b\u01a1."
     ],
     "person-female_get-into_taxi": [
-        "Người phụ nữ lên taxi."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef l\u00ean taxi."
     ],
     "person-female_get-into_tractor": [
-        "Người phụ nữ lái máy kéo."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef l\u00e1i m\u00e1y k\u00e9o."
     ],
     "person-female_eat_apple": [
-        "Người phụ nữ ăn táo."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0103n t\u00e1o."
     ],
     "person-male_pet_animal-cow": [
-        "Người phụ nữ vuốt ve con bò."
+        "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef vu\u1ed1t ve con b\u00f2."
     ],
     "ambulance_drive-to_factory": [
-        "Xe cứu thương lái đến nhà máy."
+        "Xe c\u1ee9u th\u01b0\u01a1ng l\u00e1i \u0111\u1ebfn nh\u00e0 m\u00e1y."
     ],
     "box_move-into_house": [
-        "Di chuyển cái hộp vào trong nhà!"
+        "Di chuy\u1ec3n c\u00e1i h\u1ed9p v\u00e0o trong nh\u00e0!"
     ],
     "lamp_put-on_table": [
-        "Đặt cái đèn lên bàn!"
+        "\u0110\u1eb7t c\u00e1i \u0111\u00e8n l\u00ean b\u00e0n!"
     ],
     "speaker_bring-into_house": [
-        "Mang loa vào nhà!"
+        "Mang loa v\u00e0o nh\u00e0!"
     ],
     "firetruck_drive-to_factory": [
-        "Xe cứu hỏa chạy đến nhà máy."
+        "Xe c\u1ee9u h\u1ecfa ch\u1ea1y \u0111\u1ebfn nh\u00e0 m\u00e1y."
     ],
     "animal-elephant_goes-to_tree": [
-        "Con voi đi đến cái cây."
+        "Con voi \u0111i \u0111\u1ebfn c\u00e1i c\u00e2y."
     ],
     "bathtub_bring-into_house": [
-        "Mang bồn tắm vào nhà!"
+        "Mang b\u1ed3n t\u1eafm v\u00e0o nh\u00e0!"
     ],
     "animal-fox_eat_meat-raw": [
-        "Con cáo ăn thịt."
+        "Con c\u00e1o \u0103n th\u1ecbt."
     ],
     "animal-beaver_goes-into_house": [
-        "Con hải ly đi vào nhà."
+        "Con h\u1ea3i ly \u0111i v\u00e0o nh\u00e0."
     ],
     "barrel_bring-into_ship": [
-        "Chất thùng lên tàu!",
-        "Mang thùng vào trong tàu!"
+        "Ch\u1ea5t th\u00f9ng l\u00ean t\u00e0u!",
+        "Mang th\u00f9ng v\u00e0o trong t\u00e0u!"
     ],
     "cone_give_person-male": [
-        "Đưa cái nón giao thông cho người đàn ông!"
+        "\u0110\u01b0a c\u00e1i n\u00f3n giao th\u00f4ng cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "sandwich_give_person-female": [
-        "Đưa bánh sandwich cho người phụ nữ!"
+        "\u0110\u01b0a b\u00e1nh sandwich cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "animal-giraffe_goes-to_tree": [
-        "Con hươu cao cổ đi đến cái cây."
+        "Con h\u01b0\u01a1u cao c\u1ed5 \u0111i \u0111\u1ebfn c\u00e1i c\u00e2y."
     ],
     "onion_give_animal-dog": [
-        "Đưa củ hành cho con chó!",
-        "Đưa củ hành cho con chó!"
+        "\u0110\u01b0a c\u1ee7 h\u00e0nh cho con ch\u00f3!",
+        "\u0110\u01b0a c\u1ee7 h\u00e0nh cho con ch\u00f3!"
     ],
     "shovel_give_person-female": [
-        "Đưa cái xẻng cho người phụ nữ!"
+        "\u0110\u01b0a c\u00e1i x\u1ebbng cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "cupcake_give_person-female": [
-        "Đưa cái bánh cupcake cho người phụ nữ!"
+        "\u0110\u01b0a c\u00e1i b\u00e1nh cupcake cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "cupcake_give_person-male": [
-        "Đưa cái bánh cupcake cho người đàn ông!"
+        "\u0110\u01b0a c\u00e1i b\u00e1nh cupcake cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "cupcake_put-on_table": [
-        "Đặt cái bánh cupcake lên bàn!"
+        "\u0110\u1eb7t c\u00e1i b\u00e1nh cupcake l\u00ean b\u00e0n!"
     ],
     "cupcake_put-in_trashcan": [
-        "Vứt cái bánh cupcake vào thùng rác!"
+        "V\u1ee9t c\u00e1i b\u00e1nh cupcake v\u00e0o th\u00f9ng r\u00e1c!"
     ],
     "can_put-into_kitchen-sink": [
-        "Bỏ cái lon vào bồn rửa!"
+        "B\u1ecf c\u00e1i lon v\u00e0o b\u1ed3n r\u1eeda!"
     ],
     "can_give_person-female": [
-        "Đưa cái lon cho người phụ nữ!"
+        "\u0110\u01b0a c\u00e1i lon cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "can_give_person-male": [
-        "Đưa cái lon cho người đàn ông!"
+        "\u0110\u01b0a c\u00e1i lon cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "bottle_put-into_fridge": [
-        "Bỏ chai vào tủ lạnh!"
+        "B\u1ecf chai v\u00e0o t\u1ee7 l\u1ea1nh!"
     ],
     "bottle_give_person-female": [
-        "Đưa chai cho người phụ nữ!"
+        "\u0110\u01b0a chai cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "bottle_give_person-male": [
-        "Đưa chai cho người đàn ông!"
+        "\u0110\u01b0a chai cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "ambulance_drive-to_house": [
-        "Xe cứu thương lái đến nhà."
+        "Xe c\u1ee9u th\u01b0\u01a1ng l\u00e1i \u0111\u1ebfn nh\u00e0."
     ],
     "animal-cat_eat_meat-raw": [
-        "Con mèo muốn ăn thịt.",
-        "Con mèo ăn thịt."
+        "Con m\u00e8o mu\u1ed1n \u0103n th\u1ecbt.",
+        "Con m\u00e8o \u0103n th\u1ecbt."
     ],
     "animal-monkey_eat_banana": [
-        "Con khỉ ăn quả chuối."
+        "Con kh\u1ec9 \u0103n qu\u1ea3 chu\u1ed1i."
     ],
     "books_put-into_car-van": [
-        "Bỏ những quyển sách vào xe tải!"
+        "B\u1ecf nh\u1eefng quy\u1ec3n s\u00e1ch v\u00e0o xe t\u1ea3i!"
     ],
     "books_put-into_house": [
-        "Đem những quyển sách vào trong nhà!"
+        "\u0110em nh\u1eefng quy\u1ec3n s\u00e1ch v\u00e0o trong nh\u00e0!"
     ],
     "ice-cream_give_person-female": [
-        "Đưa kem cho người phụ nữ!"
+        "\u0110\u01b0a kem cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "ice-cream_give_person-male": [
-        "Đưa cây kem cho người đàn ông!"
+        "\u0110\u01b0a c\u00e2y kem cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "car-pickup-truck_drive-to_factory": [
-        "Xe bán tải lái đến nhà máy."
+        "Xe b\u00e1n t\u1ea3i l\u00e1i \u0111\u1ebfn nh\u00e0 m\u00e1y."
     ],
     "car-pickup-truck_drive-to_house": [
-        "Chiếc xe bán tải lái đến ngôi nhà."
+        "Chi\u1ebfc xe b\u00e1n t\u1ea3i l\u00e1i \u0111\u1ebfn ng\u00f4i nh\u00e0."
     ],
     "car-pickup-truck_drive-to_tree": [
-        "Chiếc xe bán tải đỗ cạnh cái cây."
+        "Chi\u1ebfc xe b\u00e1n t\u1ea3i \u0111\u1ed7 c\u1ea1nh c\u00e1i c\u00e2y."
     ],
     "lemon_put-in_bowl": [
-        "Bỏ quả chanh vào trong bát!"
+        "B\u1ecf qu\u1ea3 chanh v\u00e0o trong b\u00e1t!"
     ],
     "lemon_give_person-female": [
-        "Đưa quả chanh cho người phụ nữ!"
+        "\u0110\u01b0a qu\u1ea3 chanh cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "apple_give_animal-caterpillar": [
-        "Đưa quả táo cho con sâu!"
+        "\u0110\u01b0a qu\u1ea3 t\u00e1o cho con s\u00e2u!"
     ],
     "apple_give_person-male": [
-        "Đưa quả táo cho người đàn ông!"
+        "\u0110\u01b0a qu\u1ea3 t\u00e1o cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "kitchen-sink_put-into_car-van": [
-        "Bỏ bồn rửa chén vào xe tải!"
+        "B\u1ecf b\u1ed3n r\u1eeda ch\u00e9n v\u00e0o xe t\u1ea3i!"
     ],
     "kitchen-sink_put-into_house": [
-        "Lắp bồn rửa bát trong nhà!"
+        "L\u1eafp b\u1ed3n r\u1eeda b\u00e1t trong nh\u00e0!"
     ],
     "cup_put-next-to_bottle": [
-        "Đặt cái cốc bên cạnh cái chai!"
+        "\u0110\u1eb7t c\u00e1i c\u1ed1c b\u00ean c\u1ea1nh c\u00e1i chai!"
     ],
     "cup_give_person-male": [
-        "Đưa cái cốc cho người đàn ông!"
+        "\u0110\u01b0a c\u00e1i c\u1ed1c cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "chocolate_put-into_fridge": [
-        "Bỏ sôcôla vào tủ lạnh!"
+        "B\u1ecf s\u00f4c\u00f4la v\u00e0o t\u1ee7 l\u1ea1nh!"
     ],
     "chocolate_give_person-female": [
-        "Đưa sô cô la cho người phụ nữ!"
+        "\u0110\u01b0a s\u00f4 c\u00f4 la cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "couch_put-into_car-van": [
-        "Bỏ cái ghế dài vào xe tải!"
+        "B\u1ecf c\u00e1i gh\u1ebf d\u00e0i v\u00e0o xe t\u1ea3i!"
     ],
     "couch_move-into_house": [
-        "Di chuyển ghế sofa vào trong nhà!"
+        "Di chuy\u1ec3n gh\u1ebf sofa v\u00e0o trong nh\u00e0!"
     ],
     "animal-parrot_put-into_car": [
-        "Bỏ con vẹt vào trong xe!"
+        "B\u1ecf con v\u1eb9t v\u00e0o trong xe!"
     ],
     "animal-bee_flies-to_tree": [
-        "Con ong bay đến cái cây."
+        "Con ong bay \u0111\u1ebfn c\u00e1i c\u00e2y."
     ],
     "blender_put-into_box": [
-        "Bỏ máy xay vào trong hộp!"
+        "B\u1ecf m\u00e1y xay v\u00e0o trong h\u1ed9p!"
     ],
     "blender_put-into_kitchen-sink": [
-        "Đặt máy xay vào bồn rửa!"
+        "\u0110\u1eb7t m\u00e1y xay v\u00e0o b\u1ed3n r\u1eeda!"
     ],
     "tv_load-onto_car-pickup-truck": [
-        "Hãy chất cái tivi lên xe bán tải!"
+        "H\u00e3y ch\u1ea5t c\u00e1i tivi l\u00ean xe b\u00e1n t\u1ea3i!"
     ],
     "tv_put-on_desk": [
-        "Đặt cái tivi lên bàn!"
+        "\u0110\u1eb7t c\u00e1i tivi l\u00ean b\u00e0n!"
     ],
     "tv_give-to_person-male": [
-        "Đưa cái tivi cho người đàn ông!"
+        "\u0110\u01b0a c\u00e1i tivi cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "cherries_put-into_blender": [
-        "Bỏ những quả anh đào vào máy xay!"
+        "B\u1ecf nh\u1eefng qu\u1ea3 anh \u0111\u00e0o v\u00e0o m\u00e1y xay!"
     ],
     "chair_load-onto_car-pickup-truck": [
-        "Đặt cái ghế lên xe bán tải!"
+        "\u0110\u1eb7t c\u00e1i gh\u1ebf l\u00ean xe b\u00e1n t\u1ea3i!"
     ],
     "glass_put-next-to_bottle": [
-        "Đặt cái ly bên cạnh cái chai!"
+        "\u0110\u1eb7t c\u00e1i ly b\u00ean c\u1ea1nh c\u00e1i chai!"
     ],
     "glass_put-into_kitchen-sink": [
-        "Bỏ cái ly vào bồn rửa chén!"
+        "B\u1ecf c\u00e1i ly v\u00e0o b\u1ed3n r\u1eeda ch\u00e9n!"
     ],
     "orange_put-into_bowl": [
-        "Bỏ quả cam vào trong tô!"
+        "B\u1ecf qu\u1ea3 cam v\u00e0o trong t\u00f4!"
     ],
     "table_load-onto_car-van": [
-        "Đặt cái bàn vào trong xe tải!"
+        "\u0110\u1eb7t c\u00e1i b\u00e0n v\u00e0o trong xe t\u1ea3i!"
     ],
     "pot_put-onto_stove": [
-        "Đặt nồi lên bếp!",
-        "Bỏ nồi lên bếp!"
+        "\u0110\u1eb7t n\u1ed3i l\u00ean b\u1ebfp!",
+        "B\u1ecf n\u1ed3i l\u00ean b\u1ebfp!"
     ],
     "pot_put-onto_table": [
-        "Đặt cái nồi lên bàn!"
+        "\u0110\u1eb7t c\u00e1i n\u1ed3i l\u00ean b\u00e0n!"
     ],
     "taxi_drive-to_factory": [
-        "Xe taxi đi đến nhà máy."
+        "Xe taxi \u0111i \u0111\u1ebfn nh\u00e0 m\u00e1y."
     ],
     "microwave_put-in_car": [
-        "Bỏ lò vi sóng vào trong xe!"
+        "B\u1ecf l\u00f2 vi s\u00f3ng v\u00e0o trong xe!"
     ],
     "microwave_put-in_car-van": [
-        "Bỏ lò vi sóng vào xe tải!"
+        "B\u1ecf l\u00f2 vi s\u00f3ng v\u00e0o xe t\u1ea3i!"
     ],
     "bench_put-in_car-van": [
-        "Bỏ cái ghế dài vào xe tải!"
+        "B\u1ecf c\u00e1i gh\u1ebf d\u00e0i v\u00e0o xe t\u1ea3i!"
     ],
     "cauliflower_put-in_pot": [
-        "Luộc súp lơ trong nồi!",
-        "Bỏ súp lơ vào nồi!"
+        "Lu\u1ed9c s\u00fap l\u01a1 trong n\u1ed3i!",
+        "B\u1ecf s\u00fap l\u01a1 v\u00e0o n\u1ed3i!"
     ],
     "garbage-truck_drive-to_factory": [
-        "Xe rác chạy đến nhà máy."
+        "Xe r\u00e1c ch\u1ea1y \u0111\u1ebfn nh\u00e0 m\u00e1y."
     ],
     "garbage-truck_drive-to_house": [
-        "Xe rác chạy đến nhà."
+        "Xe r\u00e1c ch\u1ea1y \u0111\u1ebfn nh\u00e0."
     ],
     "tomato_put-into_fridge": [
-        "Bỏ cà chua vào tủ lạnh!"
+        "B\u1ecf c\u00e0 chua v\u00e0o t\u1ee7 l\u1ea1nh!"
     ],
     "cake_put-in_fridge": [
-        "Bỏ bánh vào tủ lạnh!"
+        "B\u1ecf b\u00e1nh v\u00e0o t\u1ee7 l\u1ea1nh!"
     ],
     "cake_put-on_table": [
-        "Đặt cái bánh lên bàn!"
+        "\u0110\u1eb7t c\u00e1i b\u00e1nh l\u00ean b\u00e0n!"
     ],
     "broccoli_give_animal-bunny": [
-        "Đưa bông cải xanh cho con thỏ!"
+        "\u0110\u01b0a b\u00f4ng c\u1ea3i xanh cho con th\u1ecf!"
     ],
     "broccoli_put-into_pot": [
-        "Luộc bông cải xanh trong nồi!"
+        "Lu\u1ed9c b\u00f4ng c\u1ea3i xanh trong n\u1ed3i!"
     ],
     "pumpkin_put-on_table": [
-        "Đặt quả bí ngô lên bàn!"
+        "\u0110\u1eb7t qu\u1ea3 b\u00ed ng\u00f4 l\u00ean b\u00e0n!"
     ],
     "banana_give_animal-monkey": [
-        "Đưa quả chuối cho con khỉ!"
+        "\u0110\u01b0a qu\u1ea3 chu\u1ed1i cho con kh\u1ec9!"
     ],
     "banana_put-into_fridge": [
-        "Bỏ quả chuối vào tủ lạnh!"
+        "B\u1ecf qu\u1ea3 chu\u1ed1i v\u00e0o t\u1ee7 l\u1ea1nh!"
     ],
     "mushroom_put-into_kitchen-sink": [
-        "Rửa nấm trong bồn rửa!"
+        "R\u1eeda n\u1ea5m trong b\u1ed3n r\u1eeda!"
     ],
     "mushroom_put-into_pot": [
-        "Bỏ cây nấm vào nồi!"
+        "B\u1ecf c\u00e2y n\u1ea5m v\u00e0o n\u1ed3i!"
     ],
     "stove_load-onto_car-pickup-truck": [
-        "Chất bếp lên xe bán tải!"
+        "Ch\u1ea5t b\u1ebfp l\u00ean xe b\u00e1n t\u1ea3i!"
     ],
     "stove_load-onto_car-van": [
-        "Bỏ cái bếp lên xe tải!"
+        "B\u1ecf c\u00e1i b\u1ebfp l\u00ean xe t\u1ea3i!"
     ],
     "radio_give_person-female": [
-        "Đưa cái radio cho người phụ nữ!"
+        "\u0110\u01b0a c\u00e1i radio cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "radio_give_person-male": [
-        "Đưa cái radio cho người đàn ông!"
+        "\u0110\u01b0a c\u00e1i radio cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "cup-coffee_give_person-female": [
-        "Đưa cà phê cho người phụ nữ!"
+        "\u0110\u01b0a c\u00e0 ph\u00ea cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
     ],
     "cup-coffee_give_person-male": [
-        "Đưa cà phê cho người đàn ông!"
+        "\u0110\u01b0a c\u00e0 ph\u00ea cho ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng!"
     ],
     "cup-tea_put-on_desk": [
-        "Đặt cái tách trà lên bàn!"
+        "\u0110\u1eb7t c\u00e1i t\u00e1ch tr\u00e0 l\u00ean b\u00e0n!"
     ],
     "cup-tea_put-on_table": [
-        "Đặt cái tách trà lên bàn!"
+        "\u0110\u1eb7t c\u00e1i t\u00e1ch tr\u00e0 l\u00ean b\u00e0n!"
     ],
     "bowl_put-in_kitchen-sink": [
-        "Bỏ cái tô vào bồn rửa!"
+        "B\u1ecf c\u00e1i t\u00f4 v\u00e0o b\u1ed3n r\u1eeda!"
     ],
     "bowl_put-in_microwave": [
-        "Bỏ cái tô vào lò vi sóng!"
+        "B\u1ecf c\u00e1i t\u00f4 v\u00e0o l\u00f2 vi s\u00f3ng!"
     ],
     "fridge_bring-into_house": [
-        "Mang cái tủ lạnh vào nhà!"
+        "Mang c\u00e1i t\u1ee7 l\u1ea1nh v\u00e0o nh\u00e0!"
     ],
     "potted-plant_give_animal-deer": [
-        "Đưa chậu cây cho con nai!"
+        "\u0110\u01b0a ch\u1eadu c\u00e2y cho con nai!"
     ],
     "potted-plant_move-into_house": [
-        "Di chuyển chậu cây vào trong nhà!"
+        "Di chuy\u1ec3n ch\u1eadu c\u00e2y v\u00e0o trong nh\u00e0!"
     ],
     "laptop_put-on_desk": [
-        "Đặt máy tính xách tay lên bàn!"
+        "\u0110\u1eb7t m\u00e1y t\u00ednh x\u00e1ch tay l\u00ean b\u00e0n!"
     ],
     "laptop_give_person-female": [
-        "Đưa máy tính xách tay cho người phụ nữ!"
-    ]
+        "\u0110\u01b0a m\u00e1y t\u00ednh x\u00e1ch tay cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef!"
+    ],
+    "bed_load-into_car-van": [],
+    "bed_move-into_house": [],
+    "person-female_get-into_bed": [],
+    "chest_load-onto_ship": [],
+    "person-male_goes-onto_stairs": [],
+    "person-female_goes-onto_stairs": [],
+    "animal-dog_is-on_stairs": [],
+    "donut_put-into_trashcan": [],
+    "trashcan_bring-into_house": [],
+    "animal-dog_jumps-into_shopping-cart": [],
+    "animal-cat_jumps-into_shopping-cart": [],
+    "carrot_put-into_blender": [],
+    "carrot_put-into_fridge": [],
+    "carrot_give_animal-bunny": [],
+    "animal-pig_eats_carrot": [],
+    "animal-pig_put-into_car-pickup-truck": [],
+    "sausage_put-into_fridge": [],
+    "sausage_put-into_bowl": [],
+    "leek_put-into_fridge": [],
+    "leek_give_person-male": [],
+    "spatula_put-into_kitchen-sink": [],
+    "spatula_give_person-male": [],
+    "animal-lion_eat_meat-raw": [],
+    "animal-lion_walks-to_palm": [],
+    "burger_put-into_fridge": [],
+    "burger_give_person-male": [],
+    "pineapple_put-into_shopping-cart": [],
+    "pineapple_put-on_table": [],
+    "kitchen-knife_cut_apple": [],
+    "kitchen-knife_cut_banana": [],
+    "kitchen-knife_cut_fish": [],
+    "kitchen-knife_cut_leek": [],
+    "kitchen-knife_cut_meat-raw": [],
+    "kitchen-knife_cut_broccoli": [],
+    "kitchen-knife_cut_cheese": [],
+    "kitchen-knife_cut_mushroom": [],
+    "kitchen-knife_cut_tomato": [],
+    "kitchen-knife_put-into_kitchen-sink": [],
+    "avocado_put-into_shopping-cart": [],
+    "avocado_put-into_trashcan": [],
+    "pizza_put-into_car": [],
+    "pizza_put-into_fridge": [],
+    "plate_put-into_kitchen-sink": [],
+    "plate_give_person-female": [],
+    "car_drives-to_house": [],
+    "car_parks-under_palm": [],
+    "car_parks-under_tree": [],
+    "paprika_give-to_animal-bunny": [],
+    "paprika_give-to_person-male": [],
+    "paprika_put-into_fridge": [],
+    "animal-bunny_eats_carrot": [],
+    "animal-bunny_sits-under_tree": [],
+    "egg_put-into_fridge": [],
+    "egg_put-into_shopping-cart": []
 }
