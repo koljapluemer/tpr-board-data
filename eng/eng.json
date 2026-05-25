@@ -70,83 +70,244 @@
     "shovel_give_person-female": [
         "Give the shovel to the woman!"
     ],
-    "cupcake_give_person-female": [],
-    "cupcake_give_person-male": [],
-    "cupcake_put-on_table": [],
-    "cupcake_put-in_trashcan": [],
-    "can_put-into_kitchen-sink": [],
-    "can_give_person-female": [],
-    "can_give_person-male": [],
-    "bottle_put-into_fridge": [],
-    "bottle_give_person-female": [],
-    "bottle_give_person-male": [],
-    "ambulance_drive-to_house": [],
-    "animal-cat_eat_meat-raw": [],
-    "animal-monkey_eat_banana": [],
-    "books_put-into_car-van": [],
-    "books_put-into_house": [],
-    "ice-cream_give_person-female": [],
-    "ice-cream_give_person-male": [],
-    "car-pickup-truck_drive-to_factory": [],
-    "car-pickup-truck_drive-to_house": [],
-    "car-pickup-truck_drive-to_tree": [],
-    "lemon_put-in_bowl": [],
-    "lemon_give_person-female": [],
-    "apple_give_animal-caterpillar": [],
-    "apple_give_person-male": [],
-    "kitchen-sink_put-into_car-van": [],
-    "kitchen-sink_put-into_house": [],
-    "cup_put-next-to_bottle": [],
-    "cup_give_person-male": [],
-    "chocolate_put-into_fridge": [],
-    "chocolate_give_person-female": [],
-    "couch_put-into_car-van": [],
-    "couch_move-into_house": [],
-    "animal-parrot_put-into_car": [],
-    "animal-bee_flies-to_tree": [],
-    "blender_put-into_box": [],
-    "blender_put-into_kitchen-sink": [],
-    "tv_load-onto_car-pickup-truck": [],
-    "tv_put-on_desk": [],
-    "tv_give-to_person-male": [],
-    "cherries_put-into_blender": [],
-    "chair_load-onto_car-pickup-truck": [],
-    "glass_put-next-to_bottle": [],
-    "glass_put-into_kitchen-sink": [],
-    "orange_put-into_bowl": [],
-    "table_load-onto_car-van": [],
-    "pot_put-onto_stove": [],
-    "pot_put-onto_table": [],
-    "taxi_drive-to_factory": [],
-    "microwave_put-in_car": [],
-    "microwave_put-in_car-van": [],
-    "bench_put-in_car-van": [],
-    "cauliflower_put-in_pot": [],
-    "garbage-truck_drive-to_factory": [],
-    "garbage-truck_drive-to_house": [],
-    "tomato_put-into_fridge": [],
-    "cake_put-in_fridge": [],
-    "cake_put-on_table": [],
-    "broccoli_give_animal-bunny": [],
-    "broccoli_put-into_pot": [],
-    "pumpkin_put-on_table": [],
-    "banana_give_animal-monkey": [],
-    "banana_put-into_fridge": [],
-    "mushroom_put-into_kitchen-sink": [],
-    "mushroom_put-into_pot": [],
-    "stove_load-onto_car-pickup-truck": [],
-    "stove_load-onto_car-van": [],
-    "radio_give_person-female": [],
-    "radio_give_person-male": [],
-    "cup-coffee_give_person-female": [],
-    "cup-coffee_give_person-male": [],
-    "cup-tea_put-on_desk": [],
-    "cup-tea_put-on_table": [],
-    "bowl_put-in_kitchen-sink": [],
-    "bowl_put-in_microwave": [],
-    "fridge_bring-into_house": [],
-    "potted-plant_give_animal-deer": [],
-    "potted-plant_move-into_house": [],
-    "laptop_put-on_desk": [],
-    "laptop_give_person-female": []
+    "cupcake_give_person-female": [
+        "Give the woman the cupcake!"
+    ],
+    "cupcake_give_person-male": [
+        "Give the cupcake to the man!"
+    ],
+    "cupcake_put-on_table": [
+        "Put the cupcake on the table!"
+    ],
+    "cupcake_put-in_trashcan": [
+        "Throw the cupcake in the trash!"
+    ],
+    "can_put-into_kitchen-sink": [
+        "Put the can into the sink!"
+    ],
+    "can_give_person-female": [
+        "Give the can to the woman!"
+    ],
+    "can_give_person-male": [
+        "Give the can to the man!"
+    ],
+    "bottle_put-into_fridge": [
+        "Put the bottle into the fridge!"
+    ],
+    "bottle_give_person-female": [
+        "Give the bottle to the woman!"
+    ],
+    "bottle_give_person-male": [
+        "Give the bottle to the man!"
+    ],
+    "ambulance_drive-to_house": [
+        "The ambulance drives to the house."
+    ],
+    "animal-cat_eat_meat-raw": [
+        "The cat wants to eat the meat.",
+        "The cat eats the meat."
+    ],
+    "animal-monkey_eat_banana": [
+        "The monkey eats the banana."
+    ],
+    "books_put-into_car-van": [
+        "Put the books into the van!"
+    ],
+    "books_put-into_house": [
+        "Get the books into the house!"
+    ],
+    "ice-cream_give_person-female": [
+        "Give the ice cream to the woman!"
+    ],
+    "ice-cream_give_person-male": [
+        "Give the ice cream to the man!"
+    ],
+    "car-pickup-truck_drive-to_factory": [
+        "The pickup truck drives to the factory."
+    ],
+    "car-pickup-truck_drive-to_house": [
+        "The pickup truck drives to the house."
+    ],
+    "car-pickup-truck_drive-to_tree": [
+        "The pickup truck parks next to the tree."
+    ],
+    "lemon_put-in_bowl": [
+        "Put the lemon in the bowl!"
+    ],
+    "lemon_give_person-female": [
+        "Give the lemon to the woman!"
+    ],
+    "apple_give_animal-caterpillar": [
+        "Give the apple to the caterpillar!"
+    ],
+    "apple_give_person-male": [
+        "Give the apple to the man!"
+    ],
+    "kitchen-sink_put-into_car-van": [
+        "Load the kitchen sink into the van!"
+    ],
+    "kitchen-sink_put-into_house": [
+        "Install the kitchen sink in the house!"
+    ],
+    "cup_put-next-to_bottle": [
+        "Put the cup next to the bottle!"
+    ],
+    "cup_give_person-male": [
+        "Give the cup to the man!"
+    ],
+    "chocolate_put-into_fridge": [
+        "Put the chocolate in the fridge!"
+    ],
+    "chocolate_give_person-female": [
+        "Give the chocolate to the woman!"
+    ],
+    "couch_put-into_car-van": [
+        "Load the couch into the van!"
+    ],
+    "couch_move-into_house": [
+        "Move the couch into the house!"
+    ],
+    "animal-parrot_put-into_car": [
+        "Put the parrot into the car!"
+    ],
+    "animal-bee_flies-to_tree": [
+        "The bee flies to the tree."
+    ],
+    "blender_put-into_box": [
+        "Put the blender in the box!"
+    ],
+    "blender_put-into_kitchen-sink": [
+        "Put the blender in the sink!"
+    ],
+    "tv_load-onto_car-pickup-truck": [
+        "Load the TV onto the pickup truck!"
+    ],
+    "tv_put-on_desk": [
+        "Put the TV on the desk!"
+    ],
+    "tv_give-to_person-male": [
+        "Give the TV to the man!"
+    ],
+    "cherries_put-into_blender": [
+        "Put the cherries into the blender!"
+    ],
+    "chair_load-onto_car-pickup-truck": [
+        "Put the chair on the pickup truck!"
+    ],
+    "glass_put-next-to_bottle": [
+        "Put the glass next to the bottle!"
+    ],
+    "glass_put-into_kitchen-sink": [
+        "Put the glass into the sink!"
+    ],
+    "orange_put-into_bowl": [
+        "Put the orange into the bowl!"
+    ],
+    "table_load-onto_car-van": [
+        "Put the table in the van!"
+    ],
+    "pot_put-onto_stove": [
+        "Place the pot on the stove!",
+        "Put the pot on the stove!"
+    ],
+    "pot_put-onto_table": [
+        "Put the pot on the table!"
+    ],
+    "taxi_drive-to_factory": [
+        "The taxi goes to the factory."
+    ],
+    "microwave_put-in_car": [
+        "Put the microwave in the car!"
+    ],
+    "microwave_put-in_car-van": [
+        "Put the microwave in the van!"
+    ],
+    "bench_put-in_car-van": [
+        "Load the bench into the van!"
+    ],
+    "cauliflower_put-in_pot": [
+        "Boil the cauliflower in the pot!",
+        "Put the cauliflower in the pot!"
+    ],
+    "garbage-truck_drive-to_factory": [
+        "The garbage truck drives to the factory."
+    ],
+    "garbage-truck_drive-to_house": [
+        "The garbage truck drives to the house."
+    ],
+    "tomato_put-into_fridge": [
+        "Put the tomato in the fridge!"
+    ],
+    "cake_put-in_fridge": [
+        "Put the cake in the fridge!"
+    ],
+    "cake_put-on_table": [
+        "Put the cake on the table!"
+    ],
+    "broccoli_give_animal-bunny": [
+        "Give the broccoli to the bunny!"
+    ],
+    "broccoli_put-into_pot": [
+        "Boil the broccoli in the pot!"
+    ],
+    "pumpkin_put-on_table": [
+        "Put the pumpkin on the table!"
+    ],
+    "banana_give_animal-monkey": [
+        "Give the monkey the banana!"
+    ],
+    "banana_put-into_fridge": [
+        "Put the banana in the fridge!"
+    ],
+    "mushroom_put-into_kitchen-sink": [
+        "Wash the mushroom in the sink!"
+    ],
+    "mushroom_put-into_pot": [
+        "Put the mushroom in the pot!"
+    ],
+    "stove_load-onto_car-pickup-truck": [
+        "Load the stove onto the pickup truck!"
+    ],
+    "stove_load-onto_car-van": [
+        "Load the stove into the van!"
+    ],
+    "radio_give_person-female": [
+        "Give the radio to the woman!"
+    ],
+    "radio_give_person-male": [
+        "Give the radio to the man!"
+    ],
+    "cup-coffee_give_person-female": [
+        "Give the coffee to the woman!"
+    ],
+    "cup-coffee_give_person-male": [
+        "Give the coffee to the man!"
+    ],
+    "cup-tea_put-on_desk": [
+        "Put the tea cup on the desk!"
+    ],
+    "cup-tea_put-on_table": [
+        "Put the tea cup on the table!"
+    ],
+    "bowl_put-in_kitchen-sink": [
+        "Put the bowl in the sink!"
+    ],
+    "bowl_put-in_microwave": [
+        "Put the bowl in the microwave!"
+    ],
+    "fridge_bring-into_house": [
+        "Get the fridge into the house!"
+    ],
+    "potted-plant_give_animal-deer": [
+        "Give the potted plant to the deer!"
+    ],
+    "potted-plant_move-into_house": [
+        "Move the potted plant into the house!"
+    ],
+    "laptop_put-on_desk": [
+        "Put the laptop on the desk!"
+    ],
+    "laptop_give_person-female": [
+        "Give the laptop to the woman!"
+    ]
 }
